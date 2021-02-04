@@ -4,6 +4,9 @@ In this part, we create three accounts on algorand and get public keys and priva
 
 ![Screenshot from 2021-02-05 00-46-43](https://user-images.githubusercontent.com/35253872/106960475-65a11700-6751-11eb-90c2-b9e53436d08f.png)
 
+## Upcoming tasks 🎉
+*> Creating our Algorand Standard Asset (ASA) 
+
 ## Requirements
 * Docker compose
 * Sandbox
