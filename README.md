@@ -10,6 +10,8 @@ In this part, we create three accounts on algorand and get public keys and priva
 
 ![Screenshot from 2021-02-05 15-45-34](https://user-images.githubusercontent.com/35253872/107033190-2cf15400-67ca-11eb-9da0-6d1118b90208.png)
 
+## [Stateful Smart Contracts](https://github.com/arman324/Algorand-Development/tree/main/Stateful%20Smart%20Contracts/Simple%20counter)
+
 ## Upcoming tasks 🎉
 * Creating our Algorand Standard Asset (ASA) 
 
