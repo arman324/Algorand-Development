@@ -14,6 +14,9 @@ In this part, we create three accounts on algorand and get public keys and priva
 1. This is a very basic application which implements a counter. Each time the application is called, the counter value is incremented. [(link)](https://github.com/arman324/Algorand-Development/tree/main/Stateful%20Smart%20Contracts/Simple%20counter)
 
 ![3](https://user-images.githubusercontent.com/35253872/107274747-16672900-6a66-11eb-967a-f5637bec90ca.png)
+
+When the smart contract is created the network will return a unique ApplicationID 👆.
+
 ![6](https://user-images.githubusercontent.com/35253872/107274608-def87c80-6a65-11eb-93c6-35ab3218f3e3.png)
 ![7](https://user-images.githubusercontent.com/35253872/107274617-e0c24000-6a65-11eb-9d4d-30e28a64ad93.png)
 ![8](https://user-images.githubusercontent.com/35253872/107274626-e1f36d00-6a65-11eb-99ea-3ed1ea783eeb.png)
